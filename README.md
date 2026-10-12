@@ -1,7 +1,7 @@
 # The Economics of Synthetic Data (MIT)
 
 Research proposal with Prof. Catherine Tucker (MIT Sloan), Rozhina (PhD),
-Albert Scerbo (MIT Analytics Lab), and Karthikeya Adari (Genuity IO).
+Albert Scerbo (MIT Analytics Lab), and Adari Karthikeya (Genuity IO).
 
 ## Thesis
 

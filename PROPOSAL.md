@@ -1,5 +1,5 @@
 # The Economics of Synthetic Data
-**Collaborators:** Prof. Catherine Tucker, Rozhina (PhD), Albert Scerbo (MIT Analytics Lab), Karthikeya Adari
+**Collaborators:** Prof. Catherine Tucker, Rozhina (PhD), Albert Scerbo (MIT Analytics Lab), Adari Karthikeya
 
 ## Core Thesis
 The primary friction in adopting AI models in healthcare and fintech isn't algorithmic capability, but rather privacy constraints and data sharing regulations (e.g., GDPR, HIPAA). Synthetic data serves as a privacy-safe infrastructure, decoupling data utility from data identity.
